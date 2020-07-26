@@ -1,0 +1,50 @@
+<IfModule mod_rewrite.c>
+    #<IfModule mod_negotiation.c>
+    #    Options -MultiViews -Indexes
+    #</IfModule>
+    Options +FollowSymLinks
+	Options All -ExecCGI -Indexes -Includes +FollowSymLinks
+
+    RewriteEngine On
+
+# Redirect all requests to the website that are not in HTTPS
+    #RewriteCond %{HTTPS} off
+    #RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+    RewriteCond %{REQUEST_URI} !^public
+    RewriteRule ^(.*)$ public/$1 [L]
+
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+
+</IfModule>
+
+#SetEnvIfNoCase User-Agent "^Googlebot" search_bot
+#SetEnvIfNoCase User-Agent "^Yandex" search_bot
+#SetEnvIfNoCase User-Agent "^Yahoo" search_bot
+#SetEnvIfNoCase User-Agent "^Aport" search_bot
+#SetEnvIfNoCase User-Agent "^msnbot" search_bot
+#SetEnvIfNoCase User-Agent "^spider" search_bot
+#SetEnvIfNoCase User-Agent "^Robot" search_bot
+#SetEnvIfNoCase User-Agent "^php" search_bot
+#SetEnvIfNoCase User-Agent "^Mail" search_bot
+#SetEnvIfNoCase User-Agent "^bot" search_bot
+#SetEnvIfNoCase User-Agent "^igdeSpyder" search_bot
+#SetEnvIfNoCase User-Agent "^Snapbot" search_bot
+#SetEnvIfNoCase User-Agent "^WordPress" search_bot
+#SetEnvIfNoCase User-Agent "^BlogPulseLive" search_bot
+#SetEnvIfNoCase User-Agent "^Parser" search_bot
