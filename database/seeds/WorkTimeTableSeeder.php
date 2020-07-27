@@ -11,6 +11,6 @@ class WorkTimeTableSeeder extends Seeder
      */
     public function run()
     {
-		factory(App\Models\WorkTime::class, 100)->create();
+		factory(App\Models\WorkTime::class, 3000)->create();
     }
 }

@@ -3,7 +3,7 @@
 @section('content')
 
    <div class="row">
-      <div class="col-md-6 col-sm-6">
+      <div class="col-6">
          <label>Количество на странице</label>
          <select name="sort_by" onchange="location = this.value">
             <option value="{{ route('employes.show', ['paginate' => 10]) }}" @if (Request::__get('paginate') == 10) selected @endif>10</option>
@@ -13,13 +13,13 @@
             ) selected @endif>100</option>
          </select>
       </div>
-      <div class="col-md-6 col-sm-6">
+
+      <div class="col-6">
          <label>Выбрать отдел</label>
          <select name="dep" onchange="location = this.value">
-            <option value="{{ route('department.show', ['id' => 1]) }}">First department</option>
-            <option value="{{ route('department.show', ['id' => 2]) }}">Second department</option>
-            <option value="3">Third department</option>
-            <option value="4">Fourth department</option>
+            @foreach($departments as $department)
+               <option value="{{ route('department.show', ['id' => $department->id]) }}" @if (Request::__get('id') == $department->id) selected @endif >{{ $department->department_name }}</option>
+            @endforeach
          </select>
       </div>
       <table class="table">

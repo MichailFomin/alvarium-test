@@ -28,6 +28,14 @@
 
 <div class="container" >
    @yield('breadcrumb')
+   <div class="row">
+      <div class="col-4">
+         <a href="{{ route('home') }}">Главная</a>
+         <a href="{{ route('employes.show') }}">Все сотрудники</a>
+         <a href="{{ route('upload.index') }}">Загрузить XML</a>
+      </div>
+   </div>
+
    @yield('content')
    @yield('pagination')
 </div>

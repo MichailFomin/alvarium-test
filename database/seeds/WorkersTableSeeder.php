@@ -11,6 +11,6 @@ class WorkersTableSeeder extends Seeder
      */
     public function run()
     {
-		factory(App\Models\Worker::class, 50)->create();
+		factory(App\Models\Worker::class, 500)->create();
     }
 }

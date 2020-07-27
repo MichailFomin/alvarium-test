@@ -20,11 +20,12 @@ class CreateWorkersTable extends Migration
             $table->string('patronymic', 50);
             $table->date('birthday');
             $table->unsignedBigInteger('position_id');
-			$table->foreign('position_id')->references('id')->on('positions')->onDelete('cascade');;
+			$table->foreign('position_id')->references('id')->on('positions')->onDelete('cascade');
             $table->unsignedBigInteger('department_id');
-			$table->foreign('department_id')->references('id')->on('departments')->onDelete('cascade');;
+			$table->foreign('department_id')->references('id')->on('departments')->onDelete('cascade');
 			$table->unsignedBigInteger('type_payments_id');
-			$table->foreign('type_payments_id')->references('id')->on('type_payments')->onDelete('cascade');;
+			$table->foreign('type_payments_id')->references('id')->on('type_payments')->onDelete('cascade');
+			$table->unsignedInteger('rate')->nullable();
             $table->timestamps();
         });
     }

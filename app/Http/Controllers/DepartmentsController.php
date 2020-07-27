@@ -6,8 +6,7 @@ use Illuminate\Http\Request;
 use App\Models\Worker;
 use App\Models\Department;
 
-
-class EmployesController extends Controller
+class DepartmentsController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -16,9 +15,7 @@ class EmployesController extends Controller
      */
     public function index()
     {
-
-
-
+        //
     }
 
     /**
@@ -48,13 +45,14 @@ class EmployesController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show(Request $request)
+    public function show($id, Request $request)
     {
-    	$departments = Department::get();
 
-    	if ($request->paginate) {
-			$workers = Worker::
-			with('department')
+		$departments = Department::get();
+
+		if ($request->paginate){
+			$workers = Worker::where('department_id', $id)
+				->with('department')
 				->with('position')
 				->with('typeOfPayment')
 				->with('workTimes')
@@ -65,9 +63,8 @@ class EmployesController extends Controller
 				$worker->summary = $worker->workTimes->sum('worktime');
 			});
 		} else {
-			#Сумму часов считает пыха, перебирая массив
-			$workers = Worker::
-			with('department')
+			$workers = Worker::where('department_id', $id)
+				->with('department')
 				->with('position')
 				->with('typeOfPayment')
 				->with('workTimes')
@@ -80,19 +77,7 @@ class EmployesController extends Controller
 		}
 
 
-		#Сумму часов считает SQL
-		/*
-		SELECT w.id as w_id, w.first_name as first_name, SUM(worktime) as summary
-	FROM workers as w
-		LEFT JOIN work_times as wt ON wt.worker_id=w.id
-	GROUP BY
-		w_id, first_name
-		 * */
-
-
-//		dump($request->all(), $departments);
-
-		return view('alvarium.employes', [
+		return view('alvarium.departments', [
 			'workers' => $workers,
 			'departments' => $departments
 		]);
