@@ -51,29 +51,27 @@ class DepartmentsController extends Controller
 		$departments = Department::get();
 
 		if ($request->paginate){
-			$workers = Worker::where('department_id', $id)
+			$workers = Worker::selectRaw('workers.*, sum(work_times.worktime) as summary')
+				->where('department_id', $id)
 				->with('department')
 				->with('position')
 				->with('typeOfPayment')
 				->with('workTimes')
+				->join('work_times', 'workers.id', '=', 'work_times.worker_id')
 				->groupBy('workers.id')
 				->paginate($request->paginate);
 
-			$workers->each(function (Worker $worker) {
-				$worker->summary = $worker->workTimes->sum('worktime');
-			});
 		} else {
-			$workers = Worker::where('department_id', $id)
+			$workers = Worker::selectRaw('workers.*, sum(work_times.worktime) as summary')
+				->where('department_id', $id)
 				->with('department')
 				->with('position')
 				->with('typeOfPayment')
 				->with('workTimes')
+				->join('work_times', 'workers.id', '=', 'work_times.worker_id')
 				->groupBy('workers.id')
 				->paginate(15);
 
-			$workers->each(function (Worker $worker) {
-				$worker->summary = $worker->workTimes->sum('worktime');
-			});
 		}
 
 

@@ -1,6 +1,13 @@
 @extends('alvarium.app')
 
 @section('content')
+   @if ($message = Session::get('message'))
+      <div class="alert alert-success alert-block">
+         <button type="button" class="close" data-dismiss="alert">×</button>
+         <strong style="font-size: 18px">{{ $message }}</strong>
+      </div>
+
+   @endif
 
    <div class="row">
       <div class="col-6">

@@ -53,32 +53,27 @@ class EmployesController extends Controller
     	$departments = Department::get();
 
     	if ($request->paginate) {
-			$workers = Worker::
-			with('department')
+			$workers = Worker::selectRaw('workers.*, sum(work_times.worktime) as summary')
+				->with('department')
 				->with('position')
 				->with('typeOfPayment')
 				->with('workTimes')
+				->join('work_times', 'workers.id', '=', 'work_times.worker_id')
 				->groupBy('workers.id')
 				->paginate($request->paginate);
 
-			$workers->each(function (Worker $worker) {
-				$worker->summary = $worker->workTimes->sum('worktime');
-			});
 		} else {
-			#Сумму часов считает пыха, перебирая массив
-			$workers = Worker::
-			with('department')
+
+			$workers = Worker::selectRaw('workers.*, sum(work_times.worktime) as summary')
+				->with('department')
 				->with('position')
 				->with('typeOfPayment')
 				->with('workTimes')
+				->join('work_times', 'workers.id', '=', 'work_times.worker_id')
 				->groupBy('workers.id')
 				->paginate(15);
 
-			$workers->each(function (Worker $worker) {
-				$worker->summary = $worker->workTimes->sum('worktime');
-			});
 		}
-
 
 		#Сумму часов считает SQL
 		/*
@@ -89,8 +84,6 @@ class EmployesController extends Controller
 		w_id, first_name
 		 * */
 
-
-//		dump($request->all(), $departments);
 
 		return view('alvarium.employes', [
 			'workers' => $workers,

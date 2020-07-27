@@ -8,6 +8,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -17,6 +18,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -26,6 +28,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -35,6 +38,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -44,6 +48,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -53,6 +58,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -62,6 +68,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -71,6 +78,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -80,6 +88,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -89,6 +98,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -98,6 +108,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -107,6 +118,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -116,6 +128,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -125,6 +138,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -134,6 +148,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -143,6 +158,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -152,6 +168,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -161,6 +178,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -170,6 +188,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -179,6 +198,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -188,6 +208,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -197,6 +218,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -206,6 +228,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -215,6 +238,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -224,6 +248,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -233,6 +258,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -242,6 +268,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -251,6 +278,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -260,6 +288,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -269,6 +298,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -278,6 +308,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -287,6 +318,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -296,6 +328,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -305,6 +338,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -314,6 +348,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -323,6 +358,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -332,6 +368,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -341,6 +378,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -350,6 +388,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -359,6 +398,7 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
     <workers>
         <firstname>Eugene</firstname>
@@ -368,6 +408,7 @@
         <department_id>1</department_id>
         <position_id>1</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
     </workers>
     <workers>
         <firstname>Eugene2</firstname>
@@ -377,6 +418,7 @@
         <department_id>2</department_id>
         <position_id>2</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
     </workers>
     <workers>
         <firstname>Eugene3</firstname>
@@ -386,6 +428,7 @@
         <department_id>3</department_id>
         <position_id>3</position_id>
         <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
     </workers>
     <workers>
         <firstname>Eugene4</firstname>
@@ -395,5 +438,1006 @@
         <department_id>4</department_id>
         <position_id>4</position_id>
         <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene</firstname>
+        <secondname>Hopkins</secondname>
+        <patronimic>Wilson</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>1</department_id>
+        <position_id>1</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>8</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene2</firstname>
+        <secondname>Hopkins2</secondname>
+        <patronimic>Wilson2</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>2</department_id>
+        <position_id>2</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>6</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene3</firstname>
+        <secondname>Hopkins3</secondname>
+        <patronimic>Wilson3</patronimic>
+        <birthday>20.04.1986</birthday>
+        <department_id>3</department_id>
+        <position_id>3</position_id>
+        <type_payment_id>1</type_payment_id>
+        <rate>12</rate>
+    </workers>
+    <workers>
+        <firstname>Eugene4</firstname>
+        <secondname>Hopkins4</secondname>
+        <patronimic>Wilson4</patronimic>
+        <birthday>22.04.1986</birthday>
+        <department_id>4</department_id>
+        <position_id>4</position_id>
+        <type_payment_id>2</type_payment_id>
+        <rate>9</rate>
     </workers>
 </template>
