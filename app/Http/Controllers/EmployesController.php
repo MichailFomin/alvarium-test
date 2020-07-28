@@ -20,26 +20,20 @@ class EmployesController extends Controller
     {
 		$departments = Department::all();
 
-
 		$workers = Worker::query()->selectRaw('workers.*, sum(work_times.worktime) as summary')
-			->with('department')
-			->with('position')
-			->with('typeOfPayment')
-			->with('workTimes')
+			->with(['department', 'position', 'typeOfPayment', 'workTimes'])
 			->join('work_times', 'workers.id', '=', 'work_times.worker_id')
 			->groupBy('workers.id')
 			->paginate($request->get('paginate', 15));
 
-
-		#Сумму часов считает SQL
+		//Сумму часов считает SQL
 		/*
-		SELECT w.id as w_id, w.first_name as first_name, SUM(worktime) as summary
+		SELECT w.id as w_id, w.first_name as first_name, SUM(wt.worktime) as summary
 	FROM workers as w
 		LEFT JOIN work_times as wt ON wt.worker_id=w.id
 	GROUP BY
-		w_id, first_name
+		w_id
 		 * */
-
 
 		return view('alvarium.employes', [
 			'workers' => $workers,

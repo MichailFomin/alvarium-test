@@ -21,10 +21,7 @@ class DepartmentsController extends Controller
 
 		$workers = Worker::query()->selectRaw('workers.*, sum(work_times.worktime) as summary')
 			->where('department_id', $id)
-			->with('department')
-			->with('position')
-			->with('typeOfPayment')
-			->with('workTimes')
+			->with(['department', 'position', 'typeOfPayment', 'workTimes'])
 			->join('work_times', 'workers.id', '=', 'work_times.worker_id')
 			->groupBy('workers.id')
 			->paginate($request->get('paginate', 15));

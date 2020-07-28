@@ -46,10 +46,7 @@ class UploadController extends Controller
 				return redirect()->route('employes.show')->with('message', 'Загружено записей: ' . count($arrayToDB) );
 			}
 
-
-
 		}
-
 
 	}
 }
