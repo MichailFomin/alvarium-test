@@ -21,10 +21,8 @@ class UploadController extends Controller
 		if ($request->hasfile('file_xml')) {
 			$fileName = time().'.'.request()->file('file_xml')->getClientOriginalExtension();
 			request()->file('file_xml')->move('xml', $fileName);
-			dump($fileName);
 
 			$contents = simplexml_load_file(asset('xml/' . $fileName));
-			dump($contents);
 
 			$arrayToDB = [];
 			foreach ($contents->workers as $workerXML) {
